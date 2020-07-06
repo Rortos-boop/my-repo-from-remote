@@ -5,24 +5,15 @@ body {
 }
 
 #profile-container {
-<<<<<<< HEAD
     max-width: 300px;
-=======
-    max-witdh: 300px;
->>>>>>> development-1.0
     background-color: white;
     border: 1px solid gray;
     border-radius: 6px;
 }
 
 #profile-image {
-<<<<<<< HEAD
     width: 100%;
     heigth: auto;
-=======
-    width: 100px;
-    height: auto;
->>>>>>> development-1.0
 }
 
 #profile-name {
@@ -36,7 +27,6 @@ body {
     background-color: burlywood;
     text-align: center;
     color: white;
-<<<<<<< HEAD
 }
 
 #footer {
@@ -48,6 +38,3 @@ body {
     color: white;
 }
 
-=======
-}
->>>>>>> development-1.0
